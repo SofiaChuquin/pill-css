@@ -3,9 +3,6 @@ import { example } from './data.js';
 import data from './data/pokemon/pokemon.js';
 // import data from './data/rickandmorty/rickandmorty.js';
 
-console.log(example, data);
-
-const getData=()=>{
-    var newData = "";
-    console.log(newData)
+const getData = () => {
+    let newData = "";
 }
