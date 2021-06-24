@@ -5,4 +5,10 @@ import data from './data/pokemon/pokemon.js';
 
 const getData = () => {
     let newData = "";
+    const year = 2021;
+    if(year == 2021){
+        console.log("SI");
+    }else{
+        console.log("no");
+    }
 }
