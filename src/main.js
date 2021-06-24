@@ -8,4 +8,5 @@ console.log(example, data);
 const renderData = () => {
   var newData = '';
   console.log(newData);
+  return newData;
 }
