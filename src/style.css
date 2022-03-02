@@ -1,0 +1,13 @@
+@import url("http://fonts.cdnfonts.com/css/sofia-pro");
+
+body {
+  font-family: "Sofia Pro", sans-serif;
+}
+
+@media only screen and (min-width: 600px) {
+  /* For tablets: */
+}
+
+@media only screen and (min-width: 768px) {
+  /* For desktop: */
+}
