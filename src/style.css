@@ -70,6 +70,22 @@ header {
   line-height: normal;
 }
 
+.greeting {
+  border: none;
+  background: purple;
+  outline: none;
+  padding: 16px;
+  width: 200px;
+  border-radius: 8px;
+  color: white;
+  font-size: 18px;
+}
+
+.buttonContainer {
+  display: flex;
+  justify-content: center;
+}
+
 @media (min-width: 600px) and (max-width: 767px) {
   /* For tablets: */
   body {
